@@ -1,0 +1,12 @@
+/.idea/
+/target/
+*/node/
+*/.idea/
+*/target/
+*.iml
+/.settings
+/.classpath
+/.project
+/*/.project
+/*/.classpath
+/*/.settings

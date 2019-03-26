@@ -1,0 +1,4 @@
+
+data.api.connectTimeout: 10000
+data.api.readTimeout: 10000
+
