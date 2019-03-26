@@ -8,6 +8,7 @@ import java.util.List;
 
 public class Table {
 
+    //https://stackoverflow.com/questions/10040954/alternative-to-google-finance-api
 
     public List<TableColumn> getTableColumns(){
 
